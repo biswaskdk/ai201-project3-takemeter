@@ -442,5 +442,5 @@ confusion_matrix.png
 Demo video link:
 
 ```text
-PASTE_DEMO_VIDEO_LINK_HERE
+(https://drive.google.com/file/d/1DsuON97CzHFV21xQ2IyjxB9_HYZM94RY/view?usp=sharing)
 ```
